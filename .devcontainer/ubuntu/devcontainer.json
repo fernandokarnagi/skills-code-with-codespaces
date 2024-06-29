@@ -1,0 +1,9 @@
+{
+    // Name this configuration
+    "name": "Ubuntu",
+    // Use the base codespace image
+    "image": "ubuntu:latest",
+  
+    "remoteUser": "codespace",
+    "overrideCommand": false
+  }

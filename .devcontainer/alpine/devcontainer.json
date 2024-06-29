@@ -1,0 +1,9 @@
+{
+    // Name this configuration
+    "name": "Alpine",
+    // Use the base codespace image
+    "image": "alpine:latest",
+  
+    "remoteUser": "codespace",
+    "overrideCommand": false
+  }
